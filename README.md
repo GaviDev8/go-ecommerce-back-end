@@ -7,6 +7,7 @@ Welcome to this e-commerce backend platform! Internet retail, also known as e-co
 ## Project Purpose
 E-commerce backend platform is way for an electronic store or retailer to sell products.
 
+Demo link: https://www.loom.com/share/53406bb376b9401e82514e1a15129ec6?sid=a9762388-eb0a-418e-843a-1109b939eb11
 
 Key Features:
 1. Functional Express.js API
